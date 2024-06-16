@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Rahul-Encoded/LeetHub/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rahul-Encoded/LeetHub/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 # Two Pointers
 |  |
 | ------- |
