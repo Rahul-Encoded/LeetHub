@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rahul-Encoded/LeetHub/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rahul-Encoded/LeetHub/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rahul-Encoded/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
 # String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rahul-Encoded/LeetHub/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rahul-Encoded/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -59,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rahul-Encoded/LeetHub/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rahul-Encoded/LeetHub/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 # Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rahul-Encoded/LeetHub/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rahul-Encoded/LeetHub/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 # Divide and Conquer
 |  |
 | ------- |
