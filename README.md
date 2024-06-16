@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rahul-Encoded/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Rahul-Encoded/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rahul-Encoded/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
