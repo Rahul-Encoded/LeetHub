@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Rahul-Encoded/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rahul-Encoded/LeetHub/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rahul-Encoded/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/Rahul-Encoded/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 # Binary Search
 |  |
 | ------- |
