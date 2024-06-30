@@ -127,3 +127,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rahul-Encoded/LeetHub/tree/master/0206-reverse-linked-list) |
+# Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rahul-Encoded/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rahul-Encoded/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+# Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Rahul-Encoded/LeetHub/tree/master/0450-delete-node-in-a-bst) |
