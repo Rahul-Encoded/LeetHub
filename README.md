@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0560-subarray-sum-equals-k) |
+| [0733-flood-fill](https://github.com/Rahul-Encoded/LeetHub/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Rahul-Encoded/LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/Rahul-Encoded/LeetHub/tree/master/1319-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rahul-Encoded/LeetHub/tree/master/0073-set-matrix-zeroes) |
+| [0733-flood-fill](https://github.com/Rahul-Encoded/LeetHub/tree/master/0733-flood-fill) |
 # Linked List
 |  |
 | ------- |
@@ -139,3 +141,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Rahul-Encoded/LeetHub/tree/master/0450-delete-node-in-a-bst) |
+# Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Rahul-Encoded/LeetHub/tree/master/0733-flood-fill) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Rahul-Encoded/LeetHub/tree/master/0733-flood-fill) |
