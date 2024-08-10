@@ -154,3 +154,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Rahul-Encoded/LeetHub/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Rahul-Encoded/LeetHub/tree/master/0733-flood-fill) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+<!---LeetCode Topics End-->
