@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Rahul-Encoded/LeetHub/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
