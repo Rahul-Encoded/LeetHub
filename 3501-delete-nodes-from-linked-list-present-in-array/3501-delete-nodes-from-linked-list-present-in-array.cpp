@@ -13,10 +13,10 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         unordered_set<int> to_remove(nums.begin(), nums.end());
         
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
+        ListNode* temp = new ListNode(0);
+        temp->next = head;
         
-        ListNode* prev = dummy;
+        ListNode* prev = temp;
         ListNode* curr = head;
         
         while (curr != nullptr) {
@@ -28,6 +28,6 @@ public:
             curr = curr->next;
         }
         
-        return dummy->next;
+        return temp->next;
     }
 };
