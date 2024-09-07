@@ -160,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahul-Encoded/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -234,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2155-find-missing-observations](https://github.com/Rahul-Encoded/LeetHub/tree/master/2155-find-missing-observations) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
