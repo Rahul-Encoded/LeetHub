@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rahul-Encoded/LeetHub/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rahul-Encoded/LeetHub/tree/master/0237-delete-node-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Rahul-Encoded/LeetHub/tree/master/0725-split-linked-list-in-parts) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rahul-Encoded/LeetHub/tree/master/0002-add-two-numbers) |
 | [2155-find-missing-observations](https://github.com/Rahul-Encoded/LeetHub/tree/master/2155-find-missing-observations) |
 ## Tree
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rahul-Encoded/LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
