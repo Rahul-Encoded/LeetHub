@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
+| [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahul-Encoded/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rahul-Encoded/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -296,5 +298,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
