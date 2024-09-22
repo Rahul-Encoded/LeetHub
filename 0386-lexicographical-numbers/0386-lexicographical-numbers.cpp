@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void solve(int curr, int n, vector<int> &order){
+    void lexicographicalOrder(int curr, int n, vector<int> &order){
         if(curr > n) return;
 
         order.push_back(curr);
@@ -11,7 +11,7 @@ public:
 
             if(num > n) return;
 
-            solve(num, n, order);
+            lexicographicalOrder(num, n, order);
         }
     }
 
@@ -19,7 +19,7 @@ public:
         vector<int> order;
 
         for(int i = 1; i <= 9; i++){
-            solve(i, n, order);
+            lexicographicalOrder(i, n, order);
         }
 
         return order;
