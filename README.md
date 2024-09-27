@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rahul-Encoded/LeetHub/tree/master/1435-xor-queries-of-a-subarray) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Rahul-Encoded/LeetHub/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rahul-Encoded/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -353,12 +356,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
