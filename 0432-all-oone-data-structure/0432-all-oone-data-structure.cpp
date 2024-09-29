@@ -7,13 +7,10 @@ private:
         Node *prev, *next;
         Node(int c) : count(c), prev(nullptr), next(nullptr) {}
     };
-    
-    
+      
     unordered_map<string, Node*> mp;
-
     
     Node *head, *tail;
-
     
     Node* addNodeAfter(Node *prevNode, int count) {
         Node *newNode = new Node(count);
@@ -29,7 +26,6 @@ private:
         return newNode;
     }
 
-    
     void removeNode(Node *node) {
         node->prev->next = node->next;
         if (node->next) {
@@ -103,3 +99,12 @@ public:
         return (head->next == nullptr) ? "" : head->next->keys.front();
     }
 };
+
+/**
+ * Your AllOne object will be instantiated and called as such:
+ * AllOne* obj = new AllOne();
+ * obj->inc(key);
+ * obj->dec(key);
+ * string param_3 = obj->getMaxKey();
+ * string param_4 = obj->getMinKey();
+ */
