@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Rahul-Encoded/LeetHub/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahul-Encoded/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1256-rank-transform-of-an-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 ## Array
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Rahul-Encoded/LeetHub/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rahul-Encoded/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahul-Encoded/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rahul-Encoded/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Encoded/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Rahul-Encoded/LeetHub/tree/master/1497-design-a-stack-with-increment-operation) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
