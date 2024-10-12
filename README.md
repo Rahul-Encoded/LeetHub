@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rahul-Encoded/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Rahul-Encoded/LeetHub/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahul-Encoded/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Array
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Rahul-Encoded/LeetHub/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Rahul-Encoded/LeetHub/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Rahul-Encoded/LeetHub/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rahul-Encoded/LeetHub/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/2755-extra-characters-in-a-string) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Rahul-Encoded/LeetHub/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Rahul-Encoded/LeetHub/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -348,12 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-Encoded/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahul-Encoded/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
