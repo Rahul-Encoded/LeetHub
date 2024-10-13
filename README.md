@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rahul-Encoded/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0432-all-oone-data-structure](https://github.com/Rahul-Encoded/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahul-Encoded/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1256-rank-transform-of-an-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
@@ -351,12 +354,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Rahul-Encoded/LeetHub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Rahul-Encoded/LeetHub/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -427,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
