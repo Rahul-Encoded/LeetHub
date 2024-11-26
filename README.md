@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahul-Encoded/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Rahul-Encoded/LeetHub/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/Rahul-Encoded/LeetHub/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rahul-Encoded/LeetHub/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/Rahul-Encoded/LeetHub/tree/master/1972-rotating-the-box) |
