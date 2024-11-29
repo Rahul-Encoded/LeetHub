@@ -175,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahul-Encoded/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
@@ -191,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Rahul-Encoded/LeetHub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Rahul-Encoded/LeetHub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahul-Encoded/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2586-longest-square-streak-in-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Rahul-Encoded/LeetHub/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Rahul-Encoded/LeetHub/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Rahul-Encoded/LeetHub/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Rahul-Encoded/LeetHub/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -331,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Rahul-Encoded/LeetHub/tree/master/2411-spiral-matrix-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
