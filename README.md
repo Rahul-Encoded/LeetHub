@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0988-flip-equivalent-binary-trees](https://github.com/Rahul-Encoded/LeetHub/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rahul-Encoded/LeetHub/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/Rahul-Encoded/LeetHub/tree/master/1484-linked-list-in-binary-tree) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahul-Encoded/LeetHub/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rahul-Encoded/LeetHub/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Rahul-Encoded/LeetHub/tree/master/0744-network-delay-time) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahul-Encoded/LeetHub/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Rahul-Encoded/LeetHub/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Rahul-Encoded/LeetHub/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -587,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Rahul-Encoded/LeetHub/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
