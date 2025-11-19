@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
 | [0787-sliding-puzzle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rahul-Encoded/LeetHub/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rahul-Encoded/LeetHub/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rahul-Encoded/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Rahul-Encoded/LeetHub/tree/master/0670-maximum-swap) |
