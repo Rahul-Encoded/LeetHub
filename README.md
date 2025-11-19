@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rahul-Encoded/LeetHub/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0787-sliding-puzzle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Rahul-Encoded/LeetHub/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Rahul-Encoded/LeetHub/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Rahul-Encoded/LeetHub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
