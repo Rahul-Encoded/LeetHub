@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/Rahul-Encoded/LeetHub/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/Rahul-Encoded/LeetHub/tree/master/0729-my-calendar-i) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Rahul-Encoded/LeetHub/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Rahul-Encoded/LeetHub/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rahul-Encoded/LeetHub/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rahul-Encoded/LeetHub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1256-rank-transform-of-an-array) |
