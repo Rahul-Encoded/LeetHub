@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rahul-Encoded/LeetHub/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rahul-Encoded/LeetHub/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/Rahul-Encoded/LeetHub/tree/master/0567-permutation-in-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Rahul-Encoded/LeetHub/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Rahul-Encoded/LeetHub/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rahul-Encoded/LeetHub/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/Rahul-Encoded/LeetHub/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Rahul-Encoded/LeetHub/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/Rahul-Encoded/LeetHub/tree/master/0539-minimum-time-difference) |
