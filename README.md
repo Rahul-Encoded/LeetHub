@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Rahul-Encoded/LeetHub/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rahul-Encoded/LeetHub/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Rahul-Encoded/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Rahul-Encoded/LeetHub/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Rahul-Encoded/LeetHub/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Rahul-Encoded/LeetHub/tree/master/0493-reverse-pairs) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Rahul-Encoded/LeetHub/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rahul-Encoded/LeetHub/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rahul-Encoded/LeetHub/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Rahul-Encoded/LeetHub/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
